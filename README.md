@@ -1,2 +1,0 @@
-# lcsc_buzzers_speakers_microphones
-lcsc_buzzers_speakers_microphones
